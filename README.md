@@ -6,7 +6,7 @@ Seja bem-vindo ao meu espaço no GitHub! Sou um desenvolvedor de 24 anos apaixon
 Estou sempre trabalhando em novos projetos e os adicionarei aqui conforme ficam prontos. Sinta-se à vontade para explorar e entrar em contato!
 
 ### 📊 Minhas Estatísticas de Linguagens
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-NOME-DE-USUARIO-AQUI&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vulgogustavinhorp&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### 💻 Tecnologias que Utilizo
